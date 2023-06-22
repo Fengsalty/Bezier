@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/BezierConstruct.png</file>
+        <file>images/icon.ico</file>
+        <file>images/new.png</file>
+        <file>images/open.png</file>
+        <file>images/Quit.png</file>
+        <file>images/Redo.png</file>
+        <file>images/save.png</file>
+    </qresource>
+</RCC>
